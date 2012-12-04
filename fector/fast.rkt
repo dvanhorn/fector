@@ -10,4 +10,4 @@
       * are not thread safe,
       * do not extend equal? to implement extensional equality properly.
 |#
-(include "fector.rkt")
+(include "fector.rktl")
